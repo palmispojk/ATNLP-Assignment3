@@ -1,5 +1,8 @@
 # ATNLP-Assignment3
 
+The assignment to present and discuss the previous experiment on writing and testing the transformer structure on three splits of the SCAN dataset. Further, implemented a pretrained T5 model using RAG and ICL to overcome systematicity issues. Results and discussion is presented in the pdf file.
+
+
 All three notebooks that are divided by the three experiments. Experiment 1b is with the simple split, 2a is the length split without oracle and 2b is the length split with oracle.
 
 
