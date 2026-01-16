@@ -8,6 +8,13 @@ All three notebooks that are divided by the three experiments. Experiment 1b is 
 
 ## Running the experiments
 
+
+
+## Group work from Assignment 2
+
+The group work is within the `code_reproduction_group` folder where there is a separate README file.
+
+## Individual work from Assignment 3
 All experiments were ran in google colab with the A100 hardware option to reduce the time between testing and test time.
 
 All notebooks clone the SCAN repository and access them by opening the files.
